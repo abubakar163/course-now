@@ -1,0 +1,13 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.video-container {
+    margin-top: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.navbar-brand ,.nav-link ,.text-center{
+    color: rgb(51, 21, 158);
+}
